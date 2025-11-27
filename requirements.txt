@@ -9,3 +9,5 @@ lxml
 youtube-transcript-api
 Pillow
 numpy
+
+lxml_html_clean
