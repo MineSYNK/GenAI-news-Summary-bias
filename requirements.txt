@@ -1,7 +1,7 @@
 streamlit
 newspaper3k
 google-generativeai
-moviepy
+moviepy<2.0.0
 gtts
 requests
 beautifulsoup4
