@@ -1,0 +1,11 @@
+streamlit
+newspaper3k
+google-generativeai
+moviepy
+gtts
+requests
+beautifulsoup4
+lxml
+youtube-transcript-api
+Pillow
+numpy
